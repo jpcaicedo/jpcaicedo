@@ -1,52 +1,52 @@
-<h1 align="center">Hola, soy Juan Pablo Caicedo 🌀</h1>
-<h3 align="center">Desarrollador full-stack · Diseño de Medios Interactivos · IA aplicada al desarrollo</h3>
+<h1 align="center">Hi, I'm Juan Pablo Caicedo 🌀</h1>
+<h3 align="center">Full-Stack Developer · Interactive Media Design · AI-Powered Development</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jpcaicedo&label=Visitas&color=9D4EDD&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=jpcaicedo&label=Views&color=9D4EDD&style=flat-square" />
 </p>
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
-- 🎓 Estudiante de **Diseño de Medios Interactivos** en la **Universidad Icesi**, Cali, Colombia.
-- 🌐 Construyo aplicaciones **full-stack de punta a punta**: APIs, frontends, bases de datos y despliegue.
-- 🎨 Llevo diseños de **Figma** a código *pixel perfect*, con animaciones e interacción.
-- 🧊 Creo experiencias **3D e interactivas en la web** con Three.js, p5.js y GSAP.
-- 🤖 Uso la **IA como parte de mi flujo de trabajo**: agentes, MCP, generación y revisión de código.
-- 🌱 Siempre aprendiendo algo nuevo.
+- 🎓 **Interactive Media Design** student at **Universidad Icesi**, Cali, Colombia.
+- 🌐 I build **end-to-end full-stack applications**: APIs, frontends, databases, and deployment.
+- 🎨 I turn **Figma** designs into *pixel-perfect* code with animations and interactivity.
+- 🧊 I craft **3D and interactive web experiences** using Three.js, p5.js, and GSAP.
+- 🤖 I integrate **AI into my development workflow**: agents, MCP, code generation, and code review.
+- 🌱 Always learning something new.
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
-**Lenguajes**
+**Languages**
 
-<p><img src="https://skillicons.dev/icons?i=js,ts,html,css,cs&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" /></p>
 
-**Frameworks frontend**
+**Frontend Frameworks**
 
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,vite,webpack&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,vite&theme=dark" /></p>
 
-**Estilos y UI**
+**Styling & UI**
 
-<p><img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui,styledcomponents&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=tailwind,bootstrap,styledcomponents&theme=dark" /></p>
 
-**Backend y APIs**
+**Backend & APIs**
 
-<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,prisma&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" /></p>
 
-**Bases de datos y servicios**
+**Databases & Services**
 
-<p><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase&theme=dark" /></p>
 
-**DevOps, testing y herramientas**
+**DevOps, Testing & Tools**
 
-<p><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,netlify,jest,postman,npm,pnpm,vscode&theme=dark" /></p>
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,postman,npm,pnpm,vscode&theme=dark" /></p>
 
-**Diseño, 3D y medios interactivos**
+**Design, 3D & Interactive Media**
 
 <p><img src="https://skillicons.dev/icons?i=figma,threejs,blender,unity,processing&theme=dark" /></p>
 
-## 📚 Librerías de JavaScript
+## 📚 JavaScript Libraries
 
-**3D, animación y creative coding**
+**3D, Animation & Creative Coding**
 
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
@@ -59,14 +59,14 @@
 ![Matter.js](https://img.shields.io/badge/Matter.js-4B5562?style=for-the-badge)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
 
-**Visualización de datos**
+**Data Visualization**
 
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 
-**Componentes y estilos**
+**Components & Styling**
 
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
@@ -78,7 +78,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
-**Estado, datos y formularios**
+**State, Data & Forms**
 
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
@@ -90,7 +90,7 @@
 ![date-fns](https://img.shields.io/badge/date--fns-770C56?style=for-the-badge&logo=datefns&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
 
-**Backend, APIs y tiempo real**
+**Backend, APIs & Real-Time**
 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -103,7 +103,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Passport](https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=passport&logoColor=black)
 
-**Testing y calidad**
+**Testing & Code Quality**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
@@ -114,7 +114,7 @@
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
-## 🤖 IA para desarrollo
+## 🤖 AI for Development
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -123,9 +123,9 @@
 ![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=for-the-badge)
 ![Figma MCP](https://img.shields.io/badge/Figma_MCP-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-- Conecto agentes de IA con herramientas reales mediante **MCP**, por ejemplo **Figma MCP** para pasar diseños a código.
-- Uso **ChatGPT, Codex, Claude y Copilot** para prototipar, depurar, escribir pruebas y revisar código.
-- *Prompt engineering* y flujos de trabajo con agentes.
+- I connect AI agents with real-world tools via **MCP**, such as **Figma MCP** to turn designs into code.
+- I use **ChatGPT, Codex, Claude, and Copilot** for prototyping, debugging, writing tests, and code reviews.
+- *Prompt engineering* and agentic workflows.
 
 ## 📊 GitHub Analytics
 
@@ -134,11 +134,11 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpcaicedo&layout=compact&theme=dark&bg_color=0d1117&hide_border=true" />
 </p>
 
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=jpcaicedo&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=9D4EDD&point=FFFFFF)
+![Activity](https://github-readme-activity-graph.vercel.app/graph?username=jpcaicedo&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=9D4EDD&point=FFFFFF)
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=jpcaicedo&theme=onedark&row=1&column=6&margin-h=15&margin-w=5&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=jpcaicedo&theme=onedark&row=1&column=6&margin-h=15&margin-w=5&no-bg=true)
 
-## 📫 Contacto
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU-USUARIO)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO)
